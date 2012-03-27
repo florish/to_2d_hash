@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
   s.name              = "to_2d_hash"
-  s.version           = "0.0.1"
+  s.version           = "0.0.2"
   s.platform          = Gem::Platform::RUBY
   s.authors           = ["Floris Huetink"]
   s.email             = ["floris@avocado.nl"]
-  s.homepage          = "http://github.com/florish/gem_template"
+  s.homepage          = "http://github.com/florish/to_2d_hash"
   s.summary           = "Hash#to_2d_hash"
   s.description       = "Converts a nested Hash to a two-dimensional Hash with concatenated keys"
   s.rubyforge_project = s.name
