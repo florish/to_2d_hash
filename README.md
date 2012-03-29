@@ -7,6 +7,13 @@ Convert an existing Hash to a two-dimensional Hash with concatenated keys:
     h.to_2d_hash
     # gives {'a' => 'b', 'c_d' => 'e'}
     
+Installation
+---
+
+    $ gem install to_2d_hash
+
+And then include in you project with Bundler or `require 'to_2d_hash'`. This will add a `to_2d_hash` instance method to all Ruby hash objects.
+    
 Options
 ---
 
